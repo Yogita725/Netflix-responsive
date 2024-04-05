@@ -305,6 +305,11 @@ section{
     margin: 0.5vw;
 }
 
+.question:hover{
+  background-color: #666666;
+  transition: 0.3s;
+}
+
 .ques{
     font-size: 1.75vmax;
 }
@@ -669,6 +674,11 @@ section{
     align-items: center;
     padding: 1.5vw;
     margin: 0.5vw;
+}
+
+.question:hover{
+  background-color: #666666;
+  transition: 0.3s;
 }
 
 .ques{
@@ -1043,6 +1053,11 @@ width: 100%;
     align-items: center;
     padding: 1.5vw;
     margin: 0.5vw;
+}
+
+.question:hover{
+  background-color: #666666;
+  transition: 0.3s;
 }
 
 .ques{
